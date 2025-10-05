@@ -2,7 +2,7 @@
 
 🚀 Visionary Solution Architect | 🧠 AI/ML Enthusiast | ☁️ OpenShift & Ansible Expert
 
-I'm a seasoned technologist with over 14 years of experience delivering high-impact solutions across hybrid cloud environments. My passion lies in merging automation, Kubernetes-native platforms like OpenShift, and the evolving world of AI/LLMs.
+I'm a seasoned technologist with over 15 years of experience delivering high-impact solutions across hybrid cloud environments. My passion lies in merging automation, Kubernetes-native platforms like OpenShift, and the evolving world of AI/LLMs.
 
 ---
 
